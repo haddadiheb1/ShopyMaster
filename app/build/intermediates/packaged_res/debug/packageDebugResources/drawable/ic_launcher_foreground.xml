@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Center the shop logo with some insets so it doesn't touch edges -->
+    <item
+        android:drawable="@drawable/ic_shop_logo"
+        android:gravity="center"
+        android:top="12dp"
+        android:bottom="12dp"
+        android:left="12dp"
+        android:right="12dp"/>
+</layer-list>

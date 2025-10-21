@@ -1,0 +1,85 @@
+com.hanouti.app-camera-lifecycle-1.3.4-0 C:\Users\moi\.gradle\caches\8.9\transforms\04547edfdeaa496d258a6fa8e4dacc0c\transformed\camera-lifecycle-1.3.4\res
+com.hanouti.app-room-runtime-2.6.1-1 C:\Users\moi\.gradle\caches\8.9\transforms\0682164176e2ca25704d3c241d8f105a\transformed\room-runtime-2.6.1\res
+com.hanouti.app-material-icons-core-release-2 C:\Users\moi\.gradle\caches\8.9\transforms\08ea6452f83c4376031aceb7a219b7c6\transformed\material-icons-core-release\res
+com.hanouti.app-ui-release-3 C:\Users\moi\.gradle\caches\8.9\transforms\10ef0600b226bfa652202c6f031c98bb\transformed\ui-release\res
+com.hanouti.app-ui-graphics-release-4 C:\Users\moi\.gradle\caches\8.9\transforms\117c1f3f26ed633425c9178c983fc7b8\transformed\ui-graphics-release\res
+com.hanouti.app-lifecycle-runtime-ktx-2.7.0-5 C:\Users\moi\.gradle\caches\8.9\transforms\1a38ce695f0d6eafcd20482d47f2c75c\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.hanouti.app-annotation-experimental-1.4.0-6 C:\Users\moi\.gradle\caches\8.9\transforms\1b70897f7b2b02be60328c24d7d78fe6\transformed\annotation-experimental-1.4.0\res
+com.hanouti.app-navigation-runtime-2.7.7-7 C:\Users\moi\.gradle\caches\8.9\transforms\1b7a8dad3a0277343bbf0da5678ac265\transformed\navigation-runtime-2.7.7\res
+com.hanouti.app-animation-core-release-8 C:\Users\moi\.gradle\caches\8.9\transforms\1c1b78164e75313cd43c3d24973a3135\transformed\animation-core-release\res
+com.hanouti.app-play-services-basement-18.1.0-9 C:\Users\moi\.gradle\caches\8.9\transforms\227bb8ed51ee32be8644c46b34690bec\transformed\play-services-basement-18.1.0\res
+com.hanouti.app-ui-tooling-data-release-10 C:\Users\moi\.gradle\caches\8.9\transforms\25a38974ac48f0aef82523b78051cf56\transformed\ui-tooling-data-release\res
+com.hanouti.app-startup-runtime-1.1.1-11 C:\Users\moi\.gradle\caches\8.9\transforms\31fd3935d4517a8a769a0afbda2bffbc\transformed\startup-runtime-1.1.1\res
+com.hanouti.app-lifecycle-viewmodel-compose-2.7.0-12 C:\Users\moi\.gradle\caches\8.9\transforms\3216eeaa571589d237a73952bf6415ac\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.hanouti.app-navigation-compose-2.7.7-13 C:\Users\moi\.gradle\caches\8.9\transforms\34093051773063fd0285823a3ad94776\transformed\navigation-compose-2.7.7\res
+com.hanouti.app-room-ktx-2.6.1-14 C:\Users\moi\.gradle\caches\8.9\transforms\40c406d8fef0639531710e79d3bf4097\transformed\room-ktx-2.6.1\res
+com.hanouti.app-material-icons-extended-release-15 C:\Users\moi\.gradle\caches\8.9\transforms\489fc08a98e5b7401608cd1fc18259d2\transformed\material-icons-extended-release\res
+com.hanouti.app-datastore-core-release-16 C:\Users\moi\.gradle\caches\8.9\transforms\4bd80bdbcb69b37f7351b65852e6d94c\transformed\datastore-core-release\res
+com.hanouti.app-navigation-runtime-ktx-2.7.7-17 C:\Users\moi\.gradle\caches\8.9\transforms\4d1506b25f723a9c3f4c74b150679377\transformed\navigation-runtime-ktx-2.7.7\res
+com.hanouti.app-lifecycle-viewmodel-2.7.0-18 C:\Users\moi\.gradle\caches\8.9\transforms\4d1e138035f6206bb5e5ae2977b09121\transformed\lifecycle-viewmodel-2.7.0\res
+com.hanouti.app-ui-text-release-19 C:\Users\moi\.gradle\caches\8.9\transforms\4db83224dcde76089b8566e97e4622f5\transformed\ui-text-release\res
+com.hanouti.app-appcompat-1.7.0-20 C:\Users\moi\.gradle\caches\8.9\transforms\4ecae5bc0f017331353266bed783d423\transformed\appcompat-1.7.0\res
+com.hanouti.app-savedstate-1.2.1-21 C:\Users\moi\.gradle\caches\8.9\transforms\55d1c5e6d198db9f9398fe898517378b\transformed\savedstate-1.2.1\res
+com.hanouti.app-constraintlayout-2.0.1-22 C:\Users\moi\.gradle\caches\8.9\transforms\58073cd55b19c5002336bf4f5f74d844\transformed\constraintlayout-2.0.1\res
+com.hanouti.app-sqlite-2.4.0-23 C:\Users\moi\.gradle\caches\8.9\transforms\5d3b1bb84aa13d13d8268ca5b8d3f4a3\transformed\sqlite-2.4.0\res
+com.hanouti.app-transition-1.5.0-24 C:\Users\moi\.gradle\caches\8.9\transforms\5f7e04660e1fb660daffc96f6ac2c908\transformed\transition-1.5.0\res
+com.hanouti.app-runtime-release-25 C:\Users\moi\.gradle\caches\8.9\transforms\5f8dcb5464ddff96f5ba309c9e57bb63\transformed\runtime-release\res
+com.hanouti.app-appcompat-resources-1.7.0-26 C:\Users\moi\.gradle\caches\8.9\transforms\60ba11cb4a7f0ec032ceb726fad6acb3\transformed\appcompat-resources-1.7.0\res
+com.hanouti.app-camera-camera2-1.3.4-27 C:\Users\moi\.gradle\caches\8.9\transforms\643087d1035bbbe829f3b020ae6923c6\transformed\camera-camera2-1.3.4\res
+com.hanouti.app-cardview-1.0.0-28 C:\Users\moi\.gradle\caches\8.9\transforms\6927a2f85520985a407f5b9014bf6f69\transformed\cardview-1.0.0\res
+com.hanouti.app-activity-compose-1.9.0-29 C:\Users\moi\.gradle\caches\8.9\transforms\6b41f25259c4cbc419c11ef9350ccaa3\transformed\activity-compose-1.9.0\res
+com.hanouti.app-activity-ktx-1.9.0-30 C:\Users\moi\.gradle\caches\8.9\transforms\7171730a4295bba9d2f09f3ab3ccddc7\transformed\activity-ktx-1.9.0\res
+com.hanouti.app-coordinatorlayout-1.1.0-31 C:\Users\moi\.gradle\caches\8.9\transforms\746b1f035903ca20bdbf3641333ef4e7\transformed\coordinatorlayout-1.1.0\res
+com.hanouti.app-foundation-layout-release-32 C:\Users\moi\.gradle\caches\8.9\transforms\7471220160130f1dfcf1be817473301a\transformed\foundation-layout-release\res
+com.hanouti.app-core-1.13.0-33 C:\Users\moi\.gradle\caches\8.9\transforms\75de138787c56658aacadc7714688ac4\transformed\core-1.13.0\res
+com.hanouti.app-datastore-preferences-release-34 C:\Users\moi\.gradle\caches\8.9\transforms\799470e79b2fa206e0c9c4c8da9cc7d0\transformed\datastore-preferences-release\res
+com.hanouti.app-material3-release-35 C:\Users\moi\.gradle\caches\8.9\transforms\823332a8ad55b1f99f7901f5e9643ebb\transformed\material3-release\res
+com.hanouti.app-material-1.12.0-36 C:\Users\moi\.gradle\caches\8.9\transforms\892f90199ae1f5945f8b275da5914cd6\transformed\material-1.12.0\res
+com.hanouti.app-customview-poolingcontainer-1.0.0-37 C:\Users\moi\.gradle\caches\8.9\transforms\8b602c1316bf96dea32e4253c97c9355\transformed\customview-poolingcontainer-1.0.0\res
+com.hanouti.app-ui-tooling-release-38 C:\Users\moi\.gradle\caches\8.9\transforms\8e8d2098b76b3711068fded7fd264254\transformed\ui-tooling-release\res
+com.hanouti.app-ui-geometry-release-39 C:\Users\moi\.gradle\caches\8.9\transforms\90f8e173b265926917817106ad82980c\transformed\ui-geometry-release\res
+com.hanouti.app-lifecycle-livedata-2.7.0-40 C:\Users\moi\.gradle\caches\8.9\transforms\91ad39112316c770b7de7c6d87a47391\transformed\lifecycle-livedata-2.7.0\res
+com.hanouti.app-viewpager2-1.0.0-41 C:\Users\moi\.gradle\caches\8.9\transforms\929ac91af464c4cc1168fd1d6ef2ec22\transformed\viewpager2-1.0.0\res
+com.hanouti.app-lifecycle-process-2.7.0-42 C:\Users\moi\.gradle\caches\8.9\transforms\9710bafb82bd9fb704b613eac7654f1e\transformed\lifecycle-process-2.7.0\res
+com.hanouti.app-fragment-1.5.4-43 C:\Users\moi\.gradle\caches\8.9\transforms\97c804b35667986040472628d9477e2f\transformed\fragment-1.5.4\res
+com.hanouti.app-ui-unit-release-44 C:\Users\moi\.gradle\caches\8.9\transforms\a4b8a8d13960f54bff3c07ea287aa389\transformed\ui-unit-release\res
+com.hanouti.app-animation-release-45 C:\Users\moi\.gradle\caches\8.9\transforms\a868e7e15842264cd56e1160cfd413e2\transformed\animation-release\res
+com.hanouti.app-foundation-release-46 C:\Users\moi\.gradle\caches\8.9\transforms\a9f7ac9a4868013e5945ccda27d8ad6a\transformed\foundation-release\res
+com.hanouti.app-navigation-common-2.7.7-47 C:\Users\moi\.gradle\caches\8.9\transforms\aae633ffdc2ccdb160bf5089cac99968\transformed\navigation-common-2.7.7\res
+com.hanouti.app-ui-test-manifest-1.6.8-48 C:\Users\moi\.gradle\caches\8.9\transforms\af92fcbc8fb9128bbdd306316396bf2d\transformed\ui-test-manifest-1.6.8\res
+com.hanouti.app-material-ripple-release-49 C:\Users\moi\.gradle\caches\8.9\transforms\b0012dce7719fa76c14299504f3f88d6\transformed\material-ripple-release\res
+com.hanouti.app-play-services-base-18.1.0-50 C:\Users\moi\.gradle\caches\8.9\transforms\b3b228e1ea3bf313bcf1b1e1a5798046\transformed\play-services-base-18.1.0\res
+com.hanouti.app-core-ktx-1.13.0-51 C:\Users\moi\.gradle\caches\8.9\transforms\b4fd43eb4f858686f51f666bf5e5a1c8\transformed\core-ktx-1.13.0\res
+com.hanouti.app-camera-core-1.3.4-52 C:\Users\moi\.gradle\caches\8.9\transforms\b5405f14bf3996fcf189f4cfeccbfc08\transformed\camera-core-1.3.4\res
+com.hanouti.app-camera-view-1.3.4-53 C:\Users\moi\.gradle\caches\8.9\transforms\bda7e1e26d3e1c68aff5481cb21c2c95\transformed\camera-view-1.3.4\res
+com.hanouti.app-savedstate-ktx-1.2.1-54 C:\Users\moi\.gradle\caches\8.9\transforms\bddbd9909e338ca9460e153ea21a5698\transformed\savedstate-ktx-1.2.1\res
+com.hanouti.app-lifecycle-runtime-2.7.0-55 C:\Users\moi\.gradle\caches\8.9\transforms\c1b8441cb41c485779575b58f4d97fce\transformed\lifecycle-runtime-2.7.0\res
+com.hanouti.app-runtime-saveable-release-56 C:\Users\moi\.gradle\caches\8.9\transforms\c1c9dc47bcb5412d1058cd02a0c00f35\transformed\runtime-saveable-release\res
+com.hanouti.app-datastore-release-57 C:\Users\moi\.gradle\caches\8.9\transforms\c23a90a5912a4c9149da0a07c69cf6cd\transformed\datastore-release\res
+com.hanouti.app-camera-video-1.3.4-58 C:\Users\moi\.gradle\caches\8.9\transforms\c35d9832ccfd6a90d48dc05167e5559b\transformed\camera-video-1.3.4\res
+com.hanouti.app-lifecycle-livedata-core-ktx-2.7.0-59 C:\Users\moi\.gradle\caches\8.9\transforms\c4ea617abf0558bb27591823d02d1cae\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.hanouti.app-lifecycle-viewmodel-ktx-2.7.0-60 C:\Users\moi\.gradle\caches\8.9\transforms\c5afb0a31b9f9051bc66b6a42da7f713\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.hanouti.app-core-runtime-2.2.0-61 C:\Users\moi\.gradle\caches\8.9\transforms\c9dfa654e20a79777ba0df72dcda635c\transformed\core-runtime-2.2.0\res
+com.hanouti.app-activity-1.9.0-62 C:\Users\moi\.gradle\caches\8.9\transforms\d1481ede51e6a73ffd2642c82835b5bd\transformed\activity-1.9.0\res
+com.hanouti.app-coil-base-2.6.0-63 C:\Users\moi\.gradle\caches\8.9\transforms\d24adc922cb5eb5b044344d48971ad6e\transformed\coil-base-2.6.0\res
+com.hanouti.app-ui-util-release-64 C:\Users\moi\.gradle\caches\8.9\transforms\d426801946c8cf4807b545486fc93d59\transformed\ui-util-release\res
+com.hanouti.app-lifecycle-livedata-core-2.7.0-65 C:\Users\moi\.gradle\caches\8.9\transforms\d86bc782e4952bf6dcb04031ade1675e\transformed\lifecycle-livedata-core-2.7.0\res
+com.hanouti.app-lifecycle-viewmodel-savedstate-2.7.0-66 C:\Users\moi\.gradle\caches\8.9\transforms\d8a18235c7e8f9e77a4fcfcf83e5e548\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.hanouti.app-profileinstaller-1.3.1-67 C:\Users\moi\.gradle\caches\8.9\transforms\d8faa8eb4e1f919f29518101e43a6f33\transformed\profileinstaller-1.3.1\res
+com.hanouti.app-emoji2-1.3.0-68 C:\Users\moi\.gradle\caches\8.9\transforms\e24687339ed7833b464dc5139d7fc076\transformed\emoji2-1.3.0\res
+com.hanouti.app-drawerlayout-1.1.1-69 C:\Users\moi\.gradle\caches\8.9\transforms\e565502d667032e4743325af2db0ede7\transformed\drawerlayout-1.1.1\res
+com.hanouti.app-sqlite-framework-2.4.0-70 C:\Users\moi\.gradle\caches\8.9\transforms\eae5df429b1810e0489b3a0abba2ccab\transformed\sqlite-framework-2.4.0\res
+com.hanouti.app-recyclerview-1.1.0-71 C:\Users\moi\.gradle\caches\8.9\transforms\ef01d61d3081578a88476b8368c65505\transformed\recyclerview-1.1.0\res
+com.hanouti.app-ui-text-google-fonts-1.6.8-72 C:\Users\moi\.gradle\caches\8.9\transforms\f128840a60c9919e131c94b2fd992b10\transformed\ui-text-google-fonts-1.6.8\res
+com.hanouti.app-zxing-android-embedded-4.3.0-73 C:\Users\moi\.gradle\caches\8.9\transforms\f526b9267644d363151bd224e0a7f040\transformed\zxing-android-embedded-4.3.0\res
+com.hanouti.app-material-release-74 C:\Users\moi\.gradle\caches\8.9\transforms\f90bffdec3e3dfd09dc2f3855addb463\transformed\material-release\res
+com.hanouti.app-navigation-common-ktx-2.7.7-75 C:\Users\moi\.gradle\caches\8.9\transforms\fb6bd8777e8f4cf5429d39e4738c1afe\transformed\navigation-common-ktx-2.7.7\res
+com.hanouti.app-emoji2-views-helper-1.3.0-76 C:\Users\moi\.gradle\caches\8.9\transforms\ffc901814f6cf130344121bfccd1c179\transformed\emoji2-views-helper-1.3.0\res
+com.hanouti.app-ui-tooling-preview-release-77 C:\Users\moi\.gradle\caches\8.9\transforms\ffd4722df5ef616ac81a79b84def499c\transformed\ui-tooling-preview-release\res
+com.hanouti.app-pngs-78 C:\Users\moi\Desktop\Hanouti App\app\build\generated\res\pngs\debug
+com.hanouti.app-resValues-79 C:\Users\moi\Desktop\Hanouti App\app\build\generated\res\resValues\debug
+com.hanouti.app-packageDebugResources-80 C:\Users\moi\Desktop\Hanouti App\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.hanouti.app-packageDebugResources-81 C:\Users\moi\Desktop\Hanouti App\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.hanouti.app-debug-82 C:\Users\moi\Desktop\Hanouti App\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.hanouti.app-debug-83 C:\Users\moi\Desktop\Hanouti App\app\src\debug\res
+com.hanouti.app-main-84 C:\Users\moi\Desktop\Hanouti App\app\src\main\res

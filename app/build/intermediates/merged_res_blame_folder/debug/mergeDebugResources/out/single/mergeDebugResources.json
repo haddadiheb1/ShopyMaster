@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.hanouti.app-debug-82:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.hanouti.app-main-84:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.hanouti.app-debug-82:/xml_locales_config.xml.flat",
+        "source": "com.hanouti.app-main-84:/xml/locales_config.xml"
+    },
+    {
+        "merged": "com.hanouti.app-debug-82:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.hanouti.app-main-84:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hanouti.app-debug-82:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.hanouti.app-main-84:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hanouti.app-debug-82:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.hanouti.app-main-84:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hanouti.app-debug-82:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.hanouti.app-main-84:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hanouti.app-debug-82:/xml_file_paths.xml.flat",
+        "source": "com.hanouti.app-main-84:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.hanouti.app-debug-82:/drawable_ic_shop_logo.xml.flat",
+        "source": "com.hanouti.app-main-84:/drawable/ic_shop_logo.xml"
+    },
+    {
+        "merged": "com.hanouti.app-debug-82:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.hanouti.app-main-84:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

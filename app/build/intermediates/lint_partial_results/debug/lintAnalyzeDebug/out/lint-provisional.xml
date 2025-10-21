@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.7.3" type="conditional_incidents">
+
+    <incident
+        id="NewApi"
+        severity="error"
+        message="">
+        <fix-data minSdk="ffffffffff800000" requiresApi="fffffffffe000000"/>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/hanouti/app/data/DatabaseExporter.kt"
+            line="101"
+            column="23"
+            startOffset="3377"
+            endLine="101"
+            endColumn="33"
+            endOffset="3387"/>
+        <map>
+            <entry
+                name="desc"
+                string="()"/>
+            <entry
+                name="message"
+                string="Call requires API level 26 (current min is %1$s): `java.util.Base64#getEncoder`"/>
+            <api-levels id="minSdk"
+                value="ffffffffff800000"/>
+            <entry
+                name="name"
+                string="getEncoder"/>
+            <entry
+                name="owner"
+                string="java.util.Base64"/>
+            <api-levels id="requiresApi"
+                value="fffffffffe000000"/>
+        </map>
+    </incident>
+
+    <incident
+        id="NewApi"
+        severity="error"
+        message="">
+        <fix-data minSdk="ffffffffff800000" requiresApi="fffffffffe000000"/>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/hanouti/app/data/DatabaseExporter.kt"
+            line="101"
+            column="36"
+            startOffset="3390"
+            endLine="101"
+            endColumn="50"
+            endOffset="3404"/>
+        <map>
+            <entry
+                name="desc"
+                string="([B)"/>
+            <entry
+                name="message"
+                string="Call requires API level 26 (current min is %1$s): `java.util.Base64.Encoder#encodeToString`"/>
+            <api-levels id="minSdk"
+                value="ffffffffff800000"/>
+            <entry
+                name="name"
+                string="encodeToString"/>
+            <entry
+                name="owner"
+                string="java.util.Base64.Encoder"/>
+            <api-levels id="requiresApi"
+                value="fffffffffe000000"/>
+        </map>
+    </incident>
+
+    <incident
+        id="NewApi"
+        severity="error"
+        message="">
+        <fix-data minSdk="ffffffffff800000" requiresApi="fffffffffe000000"/>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/hanouti/app/data/DatabaseExporter.kt"
+            line="109"
+            column="39"
+            startOffset="3592"
+            endLine="109"
+            endColumn="49"
+            endOffset="3602"/>
+        <map>
+            <entry
+                name="desc"
+                string="()"/>
+            <entry
+                name="message"
+                string="Call requires API level 26 (current min is %1$s): `java.util.Base64#getDecoder`"/>
+            <api-levels id="minSdk"
+                value="ffffffffff800000"/>
+            <entry
+                name="name"
+                string="getDecoder"/>
+            <entry
+                name="owner"
+                string="java.util.Base64"/>
+            <api-levels id="requiresApi"
+                value="fffffffffe000000"/>
+        </map>
+    </incident>
+
+    <incident
+        id="NewApi"
+        severity="error"
+        message="">
+        <fix-data minSdk="ffffffffff800000" requiresApi="fffffffffe000000"/>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/hanouti/app/data/DatabaseExporter.kt"
+            line="109"
+            column="52"
+            startOffset="3605"
+            endLine="109"
+            endColumn="58"
+            endOffset="3611"/>
+        <map>
+            <entry
+                name="desc"
+                string="(Ljava.lang.String;)"/>
+            <entry
+                name="message"
+                string="Call requires API level 26 (current min is %1$s): `java.util.Base64.Decoder#decode`"/>
+            <api-levels id="minSdk"
+                value="ffffffffff800000"/>
+            <entry
+                name="name"
+                string="decode"/>
+            <entry
+                name="owner"
+                string="java.util.Base64.Decoder"/>
+            <api-levels id="requiresApi"
+                value="fffffffffe000000"/>
+        </map>
+    </incident>
+
+    <incident
+        id="NewApi"
+        severity="error"
+        message="">
+        <fix-data minSdk="ffffffffff800000" requiresApi="fffffffffe000000"/>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/hanouti/app/data/DatabaseExporter.kt"
+            line="223"
+            column="23"
+            startOffset="7200"
+            endLine="223"
+            endColumn="33"
+            endOffset="7210"/>
+        <map>
+            <entry
+                name="desc"
+                string="()"/>
+            <entry
+                name="message"
+                string="Call requires API level 26 (current min is %1$s): `java.util.Base64#getEncoder`"/>
+            <api-levels id="minSdk"
+                value="ffffffffff800000"/>
+            <entry
+                name="name"
+                string="getEncoder"/>
+            <entry
+                name="owner"
+                string="java.util.Base64"/>
+            <api-levels id="requiresApi"
+                value="fffffffffe000000"/>
+        </map>
+    </incident>
+
+    <incident
+        id="NewApi"
+        severity="error"
+        message="">
+        <fix-data minSdk="ffffffffff800000" requiresApi="fffffffffe000000"/>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/hanouti/app/data/DatabaseExporter.kt"
+            line="223"
+            column="36"
+            startOffset="7213"
+            endLine="223"
+            endColumn="50"
+            endOffset="7227"/>
+        <map>
+            <entry
+                name="desc"
+                string="([B)"/>
+            <entry
+                name="message"
+                string="Call requires API level 26 (current min is %1$s): `java.util.Base64.Encoder#encodeToString`"/>
+            <api-levels id="minSdk"
+                value="ffffffffff800000"/>
+            <entry
+                name="name"
+                string="encodeToString"/>
+            <entry
+                name="owner"
+                string="java.util.Base64.Encoder"/>
+            <api-levels id="requiresApi"
+                value="fffffffffe000000"/>
+        </map>
+    </incident>
+
+    <incident
+        id="NewApi"
+        severity="error"
+        message="">
+        <fix-data minSdk="ffffffffff800000" requiresApi="fffffffffe000000"/>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/hanouti/app/data/DatabaseExporter.kt"
+            line="227"
+            column="38"
+            startOffset="7363"
+            endLine="227"
+            endColumn="48"
+            endOffset="7373"/>
+        <map>
+            <entry
+                name="desc"
+                string="()"/>
+            <entry
+                name="message"
+                string="Call requires API level 26 (current min is %1$s): `java.util.Base64#getDecoder`"/>
+            <api-levels id="minSdk"
+                value="ffffffffff800000"/>
+            <entry
+                name="name"
+                string="getDecoder"/>
+            <entry
+                name="owner"
+                string="java.util.Base64"/>
+            <api-levels id="requiresApi"
+                value="fffffffffe000000"/>
+        </map>
+    </incident>
+
+    <incident
+        id="NewApi"
+        severity="error"
+        message="">
+        <fix-data minSdk="ffffffffff800000" requiresApi="fffffffffe000000"/>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/hanouti/app/data/DatabaseExporter.kt"
+            line="227"
+            column="51"
+            startOffset="7376"
+            endLine="227"
+            endColumn="57"
+            endOffset="7382"/>
+        <map>
+            <entry
+                name="desc"
+                string="(Ljava.lang.String;)"/>
+            <entry
+                name="message"
+                string="Call requires API level 26 (current min is %1$s): `java.util.Base64.Decoder#decode`"/>
+            <api-levels id="minSdk"
+                value="ffffffffff800000"/>
+            <entry
+                name="name"
+                string="decode"/>
+            <entry
+                name="owner"
+                string="java.util.Base64.Decoder"/>
+            <api-levels id="requiresApi"
+                value="fffffffffe000000"/>
+        </map>
+    </incident>
+
+    <incident
+        id="NewApi"
+        severity="error"
+        message="">
+        <fix-data minSdk="ffffffffff800000" requiresApi="fffffffffe000000"/>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/hanouti/app/data/DatabaseExporter.kt"
+            line="240"
+            column="20"
+            startOffset="7756"
+            endLine="240"
+            endColumn="30"
+            endOffset="7766"/>
+        <map>
+            <entry
+                name="desc"
+                string="()"/>
+            <entry
+                name="message"
+                string="Call requires API level 26 (current min is %1$s): `java.util.Base64#getDecoder`"/>
+            <api-levels id="minSdk"
+                value="ffffffffff800000"/>
+            <entry
+                name="name"
+                string="getDecoder"/>
+            <entry
+                name="owner"
+                string="java.util.Base64"/>
+            <api-levels id="requiresApi"
+                value="fffffffffe000000"/>
+        </map>
+    </incident>
+
+    <incident
+        id="NewApi"
+        severity="error"
+        message="">
+        <fix-data minSdk="ffffffffff800000" requiresApi="fffffffffe000000"/>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/hanouti/app/data/DatabaseExporter.kt"
+            line="240"
+            column="33"
+            startOffset="7769"
+            endLine="240"
+            endColumn="39"
+            endOffset="7775"/>
+        <map>
+            <entry
+                name="desc"
+                string="(Ljava.lang.String;)"/>
+            <entry
+                name="message"
+                string="Call requires API level 26 (current min is %1$s): `java.util.Base64.Decoder#decode`"/>
+            <api-levels id="minSdk"
+                value="ffffffffff800000"/>
+            <entry
+                name="name"
+                string="decode"/>
+            <entry
+                name="owner"
+                string="java.util.Base64.Decoder"/>
+            <api-levels id="requiresApi"
+                value="fffffffffe000000"/>
+        </map>
+    </incident>
+
+    <incident
+        id="UnusedAttribute"
+        severity="warning"
+        message="">
+        <fix-data minSdk="ffffffffff800000" requiresApi="ffffffff00000000"/>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*manifest*0}"
+            line="11"
+            column="9"
+            startOffset="412"
+            endLine="11"
+            endColumn="51"
+            endOffset="454"/>
+        <map>
+            <entry
+                name="message"
+                string="Attribute `localeConfig` is only used in API level 33 and higher (current min is %1$s)"/>
+            <api-levels id="minSdk"
+                value="ffffffffff800000"/>
+            <api-levels id="requiresApi"
+                value="ffffffff00000000"/>
+        </map>
+    </incident>
+
+    <incident
+        id="PermissionImpliesUnsupportedChromeOsHardware"
+        severity="error"
+        message="Permission exists without corresponding hardware `&lt;uses-feature android:name=&quot;android.hardware.camera&quot; required=&quot;false&quot;>` tag">
+        <fix-data featureName="android.hardware.camera"/>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*manifest*0}"
+            line="3"
+            column="6"
+            startOffset="116"
+            endLine="3"
+            endColumn="21"
+            endOffset="131"/>
+        <map>
+            <condition library="false"/>
+        </map>
+    </incident>
+
+</incidents>

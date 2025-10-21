@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\moi\Desktop\Hanouti App\app"
+    name=":app"
+    type="APP"
+    maven="7anouti:app:unspecified"
+    agpVersion="8.7.3"
+    buildFolder="build"
+    bootClassPath="C:\Users\moi\AppData\Local\Android\Sdk\platforms\android-34\android.jar;C:\Users\moi\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
